@@ -2,5 +2,5 @@ language: cpp
 compiler: gcc
 
 script:
-- g++ main.cpp -o travis_gcc
+- g++ lista_enlazada.cpp -o travis_gcc
 - ./travis_gcc
